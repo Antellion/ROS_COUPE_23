@@ -11,8 +11,11 @@ INTERFACES IS REQUIRED EACH TIME
 ### Main launch
 
 ROS2 IS Required 
-In order to launch master pkg
+In order to launch master pkg you have to copy TIME MANAGER in intall dir
 
+```
+cp -r src/Time_Manager/ install/coupe/... i will tell you one day
+```
 ```
 . install/setup.bach
 ros2 launch coupe coupe_launch.py
