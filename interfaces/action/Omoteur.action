@@ -1,0 +1,7 @@
+int32 distmm
+string aout
+---
+bool arrive
+---
+float32 distr
+
