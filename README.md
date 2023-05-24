@@ -30,4 +30,4 @@ ros2 run <package_name> <node name>
 
 ## Authors
 
-* **Leo Mourgues** - *Initial work* - [Antellion](https://github.com/Antellion)* 
+* **Leo Mourgues** - *Initial work* - [Antellion](https://github.com/Antellion)
